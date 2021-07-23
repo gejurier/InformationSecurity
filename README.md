@@ -1,4 +1,4 @@
-# Continuous Integration Lab
+# Continuous Integration 
 Software Engineering II
 Taller
 Genesis Riera
